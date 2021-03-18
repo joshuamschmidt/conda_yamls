@@ -1,0 +1,25 @@
+name: /Users/joshuaschmidt/fasta_parse
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2020.6.20=hecda079_0
+  - certifi=2020.6.20=py37hc8dfbb8_0
+  - libcxx=10.0.1=h5f48129_0
+  - libffi=3.2.1=h4a8c4bd_1007
+  - ncurses=6.2=hb1e8313_1
+  - openssl=1.1.1g=h0b31af3_1
+  - pip=20.2.1=py_0
+  - python=3.7.8=hc9dea61_1_cpython
+  - python_abi=3.7=1_cp37m
+  - readline=8.0=h0678c8f_2
+  - setuptools=49.2.1=py37hc8dfbb8_0
+  - sqlite=3.32.3=h93121df_1
+  - tk=8.6.10=hbbe82c9_0
+  - wheel=0.34.2=py_1
+  - xz=5.2.5=h0b31af3_1
+  - zlib=1.2.11=h0b31af3_1006
+  - pip:
+    - biopython==1.77
+    - numpy==1.19.1
+prefix: /Users/joshuaschmidt/fasta_parse
