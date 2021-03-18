@@ -1,5 +1,7 @@
 # conda_yamls
-place to store and version control my conda environments
+Place to store and version control my conda environments
+
+Assumes that envs can be activated by name, rather than path.
 
 #### Little tips
 
